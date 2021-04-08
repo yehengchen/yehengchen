@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehengchen&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehengchen&show_icons=true&hide=contribs,prs&count_private=true&theme=gruvbox)
 
 
 <!--
